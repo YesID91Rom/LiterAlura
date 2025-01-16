@@ -12,15 +12,15 @@ acontinuacion veras el paso a paso con imagenes para que puedas visualizar el pr
 
 [![0.png](https://i.postimg.cc/2SXTj4xG/0.png)](https://postimg.cc/LJLjNgwg)
 
--`Funcionalidad 1 - Busqueda de un libro por titulo:`podras realizar la busqueda dendro de la Base de Datos de Gutendex y ver la informacion de un libro buscandola por su Titulo.
+-`Funcionalidad 1 - Busqueda de un libro por titulo:`podras realizar la busqueda dentro de la Base de Datos de Gutendex y ver la informacion de un libro buscandola por su Titulo.
 
 [![Imagen1.png](https://i.postimg.cc/8CtK62DR/Imagen1.png)](https://postimg.cc/Lqg3d0J5)
 
-si ingresas un dato incorrecto el sistema te indicara que verifiques el numero de opcion que visualizas en el menu.
+si ingresas un dato incorrecto el sistema te indicara que verifiques el numero ingresao, para que ingreses un numero de las opciones que visualizas en el menu.
 
 [![Imagen2.png](https://i.postimg.cc/Kzt55Chp/Imagen2.png)](https://postimg.cc/R6VfSsFw)
 
-- `Funcionalidad 2 - Ver Libros Registrado:` podras consultar todos los libros que hemos buscado y que se han guardado en la BD.
+- `Funcionalidad 2 - Ver Libros Registrado:` con esta funcion podras consultar todos los libros que hemos buscado y que se han guardado en la BD.
 
 [![Imagen3.png](https://i.postimg.cc/DZcX0hTh/Imagen3.png)](https://postimg.cc/dkL1Nz3N)
 
@@ -53,7 +53,7 @@ si ingresas un dato incorrecto el sistema te indicara que verifiques el numero d
 - Gson: Una biblioteca de Java para convertir objetos Java en su representación JSON y viceversa. Se utiliza para analizar la respuesta JSON de la API de tasas de cambio y extraer la información relevante.
 - Git: Se utiliza Git como sistema de control de versiones para el desarrollo colaborativo del proyecto.
 - IntelliJ IDEA: El IDE utilizado para desarrollar y administrar el proyecto.
-- PostgreSQL: Base de Datos utilizada para este proyecto
+- PostgreSQL: Base de Datos utilizada para este proyecto.
 
 <h3> Instrucciones de Configuración</h3>
 
