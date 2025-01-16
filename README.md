@@ -1,8 +1,8 @@
-
+[![badge-literalura.png](https://i.postimg.cc/kMcnWnft/badge-literalura.png)](https://postimg.cc/5jXdVMcx)
 
 <h1 align="center"> Challenge - LiterAtura :book: </h1>
 
-Este programa es una aplicación de consola en Java diseñada el cual permite a los usuarios buscar libros y autores a través de la API <strong>Gutendex</strong> y guardar los resultados en una base de datos relacional.
+Esta es una aplicación de consola en Java la cual permite a los usuarios buscar libros y autores a través de la API <strong>Gutendex</strong> y guardar los resultados en una base de datos relacional.
 
 <h3>Características:</h3>
 
